@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bus Booking Online System</string>
+
+    <!-- Common strings -->
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="selected_bus">Selected: %s</string>
+    <string name="bus_list_item">%1$s - 10:00 AM, ₹100</string>
+
+    <!-- Payment related -->
+    <string name="scan_to_pay">Scan to Pay for %s</string>
+    <string name="payment_pending">Payment Pending...</string>
+    <string name="payment_successful">Payment Successful!</string>
+    <string name="payment_failed">Payment Failed!</string>
+
+    <!-- Ticket related -->
+    <string name="ticket_title">🚌 Ticket Details</string>
+    <string name="bus_ticket">Bus Ticket</string>
+    <string name="ticket_details">Bus: %1$s\nFrom: %2$s\nTo: %3$s\nTime: 10:00 AM\nAmount: ₹100\nStatus: Paid</string>
+    <string name="ticket_saved">Ticket saved to Downloads!</string>
+    <string name="ticket_save_failed">Failed to save ticket</string>
+    <string name="failed_create_dir">Failed to create directory</string>
+</resources>
